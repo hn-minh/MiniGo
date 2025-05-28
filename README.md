@@ -9,21 +9,6 @@
 - Jasmin bytecode generation
 - Compatible with the JVM runtime
 
-## 📦 Process
-MiniGo Source (.mng)
-│
-▼
-[Lexer & Parser] ← ANTLR4
-│
-▼
-[Static Checker] ← Python
-│
-▼
-[Code Generator] ← Jasmin (.j)
-│
-▼
-[Java Bytecode] → Executed on JVM
-
 ## ⚙️ Requirements
 
 - Python 3.8 or later
@@ -38,9 +23,10 @@ MiniGo Source (.mng)
    ```bash
    cd /src
 3. Create a MiniGo source file
+
 For example: example.mng
 
-4. Run the file
+5. Run the file
    ```bash
    python run_code.py example.mng
 

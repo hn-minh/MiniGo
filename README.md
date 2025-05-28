@@ -21,7 +21,7 @@
    git clone https://github.com/hn-minh/MiniGo
 2. **Navigate to the source directory**
    ```bash
-   cd /src
+   cd src
 3. Create a MiniGo source file
 
    For example: example.mng

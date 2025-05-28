@@ -24,7 +24,7 @@
    cd /src
 3. Create a MiniGo source file
 
-For example: example.mng
+   For example: example.mng
 
 5. Run the file
    ```bash

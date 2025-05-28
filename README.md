@@ -13,6 +13,7 @@
 
 - Python 3.8 or later
 - Java Runtime Environment
+- To better understand the functionality of MiniGo, please read the attached specification. The repository includes a few sample programs for testing.
 
 ## 🚀 How to Use
 

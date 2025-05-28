@@ -1,4 +1,4 @@
-# MiniGo v1.0.1
+# MiniGo v1.0.2
 
 **MiniGo** is a lightweight compiler built with Python that translates MiniGo source code into Java bytecode (Jasmin), executable on the Java Virtual Machine.
 

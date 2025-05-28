@@ -29,5 +29,5 @@
 
 5. Run the file
    ```bash
-   python run_code.py example.mng
+   python code_run.py example.mng
 

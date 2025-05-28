@@ -18,7 +18,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/minigo.git
+   git clone https://github.com/hn-minh/MiniGo
 2. **Navigate to the source directory**
    ```bash
    cd /src
